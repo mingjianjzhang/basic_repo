@@ -1,0 +1,8 @@
+1. Created Git Repo.
+	a) Ran into issues here because I didn't copy and paste the code directly from github, even though it seemed like I had typed it correctly... in the future just copy and paste to make absolutely sure, don't type URLs. But if you have to, you can use: git remote set-url origin (url).
+2. Made local repository, files, etc.
+3. Tried to commit
+	a) Remember, you first have to stage things, with ADD, you can't commit if you don't have anything in the staging area.
+4. Staged, then committed, tried to push,  ran into said URL errors, fixed that.
+	a) git push -u origin master	
+5. Finished! : ).	
